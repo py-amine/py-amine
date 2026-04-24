@@ -33,6 +33,7 @@ Computer Science student from Morocco, exploring software development through pr
 </p>
 
 ---
+### Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,linux,git&theme=light" />
