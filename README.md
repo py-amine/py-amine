@@ -41,9 +41,8 @@ Computer Science student from Morocco, exploring software development through pr
 
 ---
 
-### GitHub Stats
+### Tech I Use Most
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=py-amine&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=py-amine&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=py-amine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </p>
