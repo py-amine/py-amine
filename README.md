@@ -19,6 +19,7 @@ Computer Science student from Morocco, exploring software development through pr
 ### What I'm working on
 
 - A **Student Life Dashboard** for managing tasks, schedules, budgets, mood, and notes
+- A **Morocco 2030 Impact Dashboard** combining data analysis, Streamlit, and real-world reasoning
 - Small projects to practice clean UI, JavaScript logic, and local data storage
 - University projects involving C++, SQL, Linux, and core computer science concepts
 
@@ -33,10 +34,17 @@ Computer Science student from Morocco, exploring software development through pr
 </p>
 
 ---
+
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,linux,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,linux,git,github,vscode&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ---
@@ -44,5 +52,5 @@ Computer Science student from Morocco, exploring software development through pr
 ### Tech I Use Most
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=py-amine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-five-eta-29.vercel.app/api/top-langs/?username=py-amine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
