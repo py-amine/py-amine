@@ -47,10 +47,3 @@ Computer Science student from Morocco, exploring software development through pr
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
----
-
-### Tech I Use Most
-
-<p align="center">
-  <img src="https://github-readme-stats-five-eta-29.vercel.app/api/top-langs/?username=py-amine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
