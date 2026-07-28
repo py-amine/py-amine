@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohamed Amine 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Amine </h1>
 
 <h3 align="center">
 Computer Science student from Morocco, exploring software development through practical, creative, and useful projects.
